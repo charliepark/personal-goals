@@ -21,15 +21,15 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do This Week
 
-[ ] Fill out tax paper forms.
-[ ] Make list of tax documents I need to collect to finish paperwork.
-[ ] Bow out of More Like This
-[ ] Resolve most issues in personal inbox (currently: 66; goal: 22).
-[ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-[ ] Start listing out things to read / watch in this repo, so I don't have as many open tabs.
-[X] Apply to speak at CascadiaJS/CSS
-[ ] Apply to speak at http://2015.cssconf.com/
+- [ ] Fill out tax paper forms.
+- [ ] Make list of tax documents I need to collect to finish paperwork.
+- [ ] Bow out of More Like This
+- [ ] Resolve most issues in personal inbox (currently: 66; goal: 22).
+- [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
+- [ ] Start listing out things to read / watch in this repo, so I don't have as many open tabs.
+- [X] Apply to speak at CascadiaJS/CSS
+- [ ] Apply to speak at http://2015.cssconf.com/
 
 ## Things I'll Do In The Future / Side Project Ideas
-[ ] Write blog post on most efficient way to BART to SFO (notes in email)
-[ ] Add more to this list
+- [ ] Write blog post on most efficient way to BART to SFO (notes in email)
+- [ ] Add more to this list
