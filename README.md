@@ -48,6 +48,8 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] Gist-as-CMS - make one, focused on "doing"
+- [ ] Blog post: An explanation of Gist-as-CMS
 - [ ] Blog post: Wrapup on The Measure
 - [ ] Blog post: Wrapup on The 276
 - [ ] Blog post: More Like This and why I'm not doing it
