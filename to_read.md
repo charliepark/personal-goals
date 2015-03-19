@@ -1,6 +1,7 @@
 #To Read
 
 - [ ] http://blog.capwatkins.com/how-i-focus
+- [ ] http://nobleharbor.com/tea/chado/WhatIsWabi-Sabi.htm
 
 # To Watch
 
