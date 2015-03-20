@@ -24,7 +24,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Fill out tax paper forms. *(have started!)*
 - [ ] Make list of tax documents I need to collect to finish paperwork.
 - [X] Bow out of More Like This
-- [ ] Resolve most issues in personal inbox (currently: ~~66~~ 33; goal: 22).
+- [ ] Resolve most issues in personal inbox (currently: ~~66~~ ~~43~~ ~~33~~ 28; goal: 22).
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
 - [X] Start listing out things to read / watch in this repo, so I don't have as many open tabs.
 - [X] Apply to speak at CascadiaJS/CSS
