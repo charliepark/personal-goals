@@ -4,13 +4,13 @@ Inspired by https://github.com/una/personal-goals
 
 Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching goals for 2015: Focus, Ship
+# Overarching goals for 2015: Focus, Ship, Communicate
 
 1. Do excellent work at IFTTT. Improve communication around project status, deadlines.
 2. Ship the new version of PearBudget.
 3. Speak at a front-end conference.
 4. People before Process before Product.
-5. Side projects are a second-order release valve. Better to focus on primaries. Wrap up projects that don't help me flourish. Dont' start inessential distractions.
+5. Side projects are a second-order release valve. Better to focus on primaries. Wrap up projects that don't help me flourish. Don't start inessential distractions.
 6. Use what platform I have to help raise profiles of others.
 7. Have fun.
 
@@ -48,6 +48,11 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] Blog post: panda/dog/anteater picture, related to accessibility.
+- [ ] Blog post: Queueing off https://twitter.com/csswizardry/status/578870052516151296, there are (at least) two different type of projects CSS is written for — 1. content sites and 2. apps. And for a long time, the people writing the articles and books and talks about how to write CSS were the people who were writing the CSS for _content sites_. Therefore, a lot of the best practices were for that type of interface. Blogs have two things that make them stand out as distinct from apps: 1. They have a _really_ simple DOM; 2. Once it's written, the designer isn't actively changeing the CSS, and the content of the author generally isn't interested in adding classes to their code. So that approach made sense. But apps require a very different approach. (Also note how on simple sites — blipnote, for example — I still use content-site-like CSS.)
+- [ ] Blog post: "women" vs "females" (also "girls" and "ladies") "A Few Operating Instructions for Dudes"
+  - note irony of engineers, who are so focused on symantics in their day-to-day life, getting it wrong
+  - note that it's usually unintentional, but hints at 
 - [ ] Gist-as-CMS - make one, focused on "doing"
 - [ ] Blog post: An explanation of Gist-as-CMS
 - [ ] Blog post: Wrapup on The Measure
