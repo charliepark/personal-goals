@@ -21,7 +21,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do This Week
 
-- [ ] Fill out tax paper forms.
+- [ ] Fill out tax paper forms. *(have started!)*
 - [ ] Make list of tax documents I need to collect to finish paperwork.
 - [X] Bow out of More Like This
 - [ ] Resolve most issues in personal inbox (currently: ~~66~~ 33; goal: 22).
