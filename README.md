@@ -48,6 +48,10 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html
+  - [ ] InDesign two decks (numbers, actions) 1.75" x 3.5"
+  - [ ] Print off decks, cut using paper cutter to get right size
+  - [ ] playtest, refine
 - [ ] Talk: SassConf; https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team
 - [ ] Investigate Kyudo - http://www.ikyf.org/member/usa.html#a4 http://www.yelp.com/biz/gingko-kyudojo-san-francisco
 - [ ] Friends With Families picnic … April 12th, Dolores Park?
