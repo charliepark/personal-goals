@@ -49,7 +49,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll Do In The Future / Side Project Ideas
 
 - [ ] A11y audit of slack.com … blog post? just share with them?
-- [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html
+- [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html or https://www.thegamecrafter.com/publish/product/DominoDeck
   - [ ] InDesign two decks (numbers, actions) 1.75" x 3.5"
   - [ ] Print off decks, cut using paper cutter to get right size
   - [ ] playtest, refine
