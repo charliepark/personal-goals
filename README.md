@@ -15,29 +15,22 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Have fun.
 
 
-# Week of March 16th
+# Week of March 23rd
 
-#### This week's focus: taxes
+#### This week's focus: finish taxes
 
 ## Things I'll Do This Week
 
-- [ ] Fill out tax paper forms. *(have started!)*
-- [X] Make list of tax documents I need to collect to finish paperwork.
-- [X] Bow out of More Like This
-- [X] Resolve most issues in personal inbox (currently: ~~66~~ ~~43~~ ~~33~~ ~~28~~ 22!; goal: 22).
+- [ ] Fill out tax paper forms.
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-- [X] Start listing out things to read / watch in this repo, so I don't have as many open tabs.
-- [X] Apply to speak at CascadiaJS/CSS
-- [X] Apply to speak at http://2015.cssconf.com/
-
+- [ ] work on old messages in personal email. Current: 25; Goal: 5.
+- [ ] spend 1/2 hour in sunshine each workday (couple with reading?)
+- [ ] ping Peter Cooper about Ignite talk - women/female talk
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
-- [X] Write blog post on most efficient way to BART to SFO (notes in email)
-- [X] PB: password reset alerts users when email address isn't in system
-
-
+- [ ] surely, something will go here. :-\
 
 ## Ongoing Projects
 
