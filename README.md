@@ -41,6 +41,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] Help the girls make a zine. Kids jokes?
 - [ ] propose talk for SassConf - https://github.com/SassConf/2015-austin-speaker-cfp
 - [ ] A11y audit of slack.com … blog post? just share with them?
 - [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html or https://www.thegamecrafter.com/publish/product/DominoDeck
