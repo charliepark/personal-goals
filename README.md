@@ -23,8 +23,13 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Fill out tax paper forms.
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-- [ ] work on old messages in personal email. Current: 25; Goal: 5.
+- [ ] work on old messages in personal email. Current: ~~25~~ 21; Goal: 5.
 - [ ] spend 1/2 hour in sunshine each workday (couple with reading?)
+  - [X] Monday
+  - [ ] Tuesday
+  - [ ] Wednesday
+  - [ ] Thursday
+  - [ ] Friday
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
 
 
