@@ -31,7 +31,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] Thursday
   - [ ] Friday
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
-
+- [ ] wrap up The Measure?
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
