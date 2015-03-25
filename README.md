@@ -37,6 +37,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
 - [X] started in on Black Box — InDesign, printed, cut v01
+- [X] set the landing page of The Measure to note that it's over
 
 ## Ongoing Projects
 
