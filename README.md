@@ -26,17 +26,17 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] work on old messages in personal email. Current: ~~25~~ 21; Goal: 5.
 - [ ] spend 1/2 hour in sunshine each workday (couple with reading?)
   - [X] Monday
-  - [ ] Tuesday
+  - [ ] ~~Tuesday~~ :(
   - [ ] Wednesday
   - [ ] Thursday
   - [ ] Friday
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
 - [ ] wrap up The Measure?
-- [ ] Get some Sandra Boynton books + CDs for Benjamin Booker
+- [X] Get some Sandra Boynton books + CDs for Benjamin Booker
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
-- [ ] surely, something will go here. :-\
+- [X] started in on Black Box — InDesign, printed, cut v01
 
 ## Ongoing Projects
 
@@ -51,8 +51,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] propose talk for SassConf - https://github.com/SassConf/2015-austin-speaker-cfp
 - [ ] A11y audit of slack.com … blog post? just share with them?
 - [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html or https://www.thegamecrafter.com/publish/product/DominoDeck
-  - [ ] InDesign two decks (numbers, actions) 1.75" x 3.5"
-  - [ ] Print off decks, cut using paper cutter to get right size
+  - [X] InDesign two decks (numbers, actions) 1.75" x 3.5"
+  - [X] Print off decks, cut using paper cutter to get right size
   - [ ] playtest, refine
 - [ ] Talk proposal: CSS Dev Conf - http://2015.cssdevconf.com/speaking/ (April 5th due date)
 - [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
