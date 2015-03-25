@@ -3,6 +3,7 @@
 - [ ] http://blog.capwatkins.com/how-i-focus
 - [ ] http://nobleharbor.com/tea/chado/WhatIsWabi-Sabi.htm
 - [ ] http://railsapps.github.io/updating-rails.html
+- [ ] http://lowbrowcoder.me/2015/03/22/how-to-build-an-ember-app-with-sinatra-part-1/
 
 # To Watch
 
