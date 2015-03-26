@@ -27,7 +27,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] spend 1/2 hour in sunshine each workday (couple with reading?)
   - [X] Monday
   - [ ] ~~Tuesday~~ :(
-  - [ ] Wednesday
+  - [ ] ~~Wednesday~~ :-\
   - [ ] Thursday
   - [ ] Friday
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
@@ -48,15 +48,17 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] Talk proposal: CSS Dev Conf - http://2015.cssdevconf.com/speaking/ (April 5th due date)
+- [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
 - [ ] Help the girls make a zine. Kids jokes?
-- [ ] propose talk for SassConf - https://github.com/SassConf/2015-austin-speaker-cfp
 - [ ] A11y audit of slack.com … blog post? just share with them?
 - [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html or https://www.thegamecrafter.com/publish/product/DominoDeck
   - [X] InDesign two decks (numbers, actions) 1.75" x 3.5"
   - [X] Print off decks, cut using paper cutter to get right size
+  - [ ] lay out action cards again, "tall" style
   - [ ] playtest, refine
-- [ ] Talk proposal: CSS Dev Conf - http://2015.cssdevconf.com/speaking/ (April 5th due date)
-- [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
+  - [ ] XOXO?
+  - [ ] bother with Kickstarter? why not?
 - [ ] Investigate Kyudo - http://www.ikyf.org/member/usa.html#a4 http://www.yelp.com/biz/gingko-kyudojo-san-francisco
 - [ ] Friends With Families picnic … April 12th, Dolores Park?
 - [ ] Blog post: panda/dog/anteater picture, related to accessibility.
