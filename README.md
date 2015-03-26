@@ -31,6 +31,8 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] Thursday
   - [ ] Friday
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
+  - [ ] write draft, make flow chart
+  - [ ] find tweet about aliens
 - [X] wrap up The Measure?
 - [X] Get some Sandra Boynton books + CDs for Benjamin Booker
 - [ ] Give Alex back old office key
