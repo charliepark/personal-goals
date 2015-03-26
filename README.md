@@ -33,6 +33,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
 - [X] wrap up The Measure?
 - [X] Get some Sandra Boynton books + CDs for Benjamin Booker
+- [ ] Give Alex back old office key
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
