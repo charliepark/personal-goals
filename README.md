@@ -23,13 +23,13 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Fill out tax paper forms.
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-- [ ] work on old messages in personal email. Current: ~~25~~ ~~21~~ ~~14~~ 9; Goal: 5.
+- [X] work on old messages in personal email. Current: ~~25~~ ~~21~~ ~~14~~ ~~9~~ 5; Goal: 5.
 - [ ] spend 1/2 hour in sunshine each workday (couple with reading?)
   - [X] Monday
-  - [ ] ~~Tuesday~~ :(
-  - [ ] ~~Wednesday~~ :-\
-  - [ ] Thursday
-  - [ ] Friday
+  - [ ] ~~Tuesday~~ :-\
+  - [ ] ~~Wednesday~~ :(
+  - [ ] ~~Thursday~~ >:(
+  - [ ] ~~Friday~~ ¯\_(ツ)_/¯
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
@@ -40,6 +40,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
 - [X] started in on Black Box — InDesign, printed, cut v01
+- [ ] http://charliepark.org/shrug
 
 ## Ongoing Projects
 
