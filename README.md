@@ -29,7 +29,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] ~~Tuesday~~ :-\
   - [ ] ~~Wednesday~~ :(
   - [ ] ~~Thursday~~ >:(
-  - [ ] ~~Friday~~ ¯\\_(ツ)_/¯
+  - [ ] ~~Friday~~ ¯\\\_(ツ)\_/¯
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
