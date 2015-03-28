@@ -29,7 +29,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] ~~Tuesday~~ :-\
   - [ ] ~~Wednesday~~ :(
   - [ ] ~~Thursday~~ >:(
-  - [ ] ~~Friday~~ ¯\_(ツ)_/¯
+  - [ ] ~~Friday~~ ¯\\_(ツ)_/¯
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
@@ -40,7 +40,8 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
 - [X] started in on Black Box — InDesign, printed, cut v01
-- [ ] http://charliepark.org/shrug
+- [X] http://charliepark.org/shrug
+- [X] Investigate Kyudo - http://www.ikyf.org/member/usa.html#a4 http://www.yelp.com/biz/gingko-kyudojo-san-francisco (summary: no time for it right now, but it's pretty awesome)
 
 ## Ongoing Projects
 
@@ -62,7 +63,6 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] playtest, refine
   - [ ] XOXO?
   - [ ] bother with Kickstarter? why not?
-- [ ] Investigate Kyudo - http://www.ikyf.org/member/usa.html#a4 http://www.yelp.com/biz/gingko-kyudojo-san-francisco
 - [ ] Friends With Families picnic … April 12th, Dolores Park?
 - [ ] Blog post: panda/dog/anteater picture, related to accessibility.
 - [ ] Blog post: Queueing off https://twitter.com/csswizardry/status/578870052516151296, there are (at least) two different type of projects CSS is written for — 1. content sites and 2. apps. And for a long time, the people writing the articles and books and talks about how to write CSS were the people who were writing the CSS for _content sites_. Therefore, a lot of the best practices were for that type of interface. Blogs have two things that make them stand out as distinct from apps: 1. They have a _really_ simple DOM; 2. Once it's written, the designer isn't actively changeing the CSS, and the content of the author generally isn't interested in adding classes to their code. So that approach made sense. But apps require a very different approach. (Also note how on simple sites — blipnote, for example — I still use content-site-like CSS.)
