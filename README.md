@@ -32,7 +32,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] find tweet about aliens
 - [ ] Post on blog about Make Breakfast?
 - [ ] Post on blog about friends with families picnic - April 12th
-- 
+- [ ] Email to 0. Currently 54.
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
