@@ -30,9 +30,9 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
-- [ ] Post on blog about Make Breakfast?
+- [X] Post on blog about Make Breakfast?
 - [ ] Post on blog about friends with families picnic - April 12th
-- [ ] Email to 0. Currently ~~54~~ 16.
+- [ ] Email to 0. Currently ~~54~~ ~~16~~ ~~28~~ 16.
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
