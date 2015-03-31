@@ -15,33 +15,28 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Have fun.
 
 
-# Week of March 23rd
+# Week of March 30th
 
 #### This week's focus: finish taxes
 
 ## Things I'll Do This Week
 
 - [ ] Fill out tax paper forms.
+  - [ ] calculate total expenses for PB over year.
+  - [ ] Sign form and get back to Joshua.
+  - [ ] go through papers, see what's left
+  - [ ] Get W2 from PHP for S
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-- [X] work on old messages in personal email. Current: ~~25~~ ~~21~~ ~~14~~ ~~9~~ 5; Goal: 5.
-- [ ] spend 1/2 hour in sunshine each workday (couple with reading?)
-  - [X] Monday
-  - [ ] ~~Tuesday~~ :-\
-  - [ ] ~~Wednesday~~ :(
-  - [ ] ~~Thursday~~ >:(
-  - [ ] ~~Friday~~ ¯\\\_(ツ)\_/¯
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
-- [X] set the landing page of The Measure to note that it's over
-- [X] Get some Sandra Boynton books + CDs for Benjamin Booker
-- [X] ~~Give Alex back old office key~~ (got thumbs up from H to toss it; tossed it)
+- [ ] Post on blog about Make Breakfast?
+- [ ] Post on blog about friends with families picnic - April 12th
+- 
+
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
-- [X] started in on Black Box — InDesign, printed, cut v01
-- [X] http://charliepark.org/shrug
-- [X] Investigate Kyudo - http://www.ikyf.org/member/usa.html#a4 http://www.yelp.com/biz/gingko-kyudojo-san-francisco (summary: no time for it right now, but it's pretty awesome)
 
 ## Ongoing Projects
 
@@ -69,6 +64,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Blog post: "women" vs "females" (also "girls" and "ladies") "A Few Operating Instructions for Dudes"
   - note irony of engineers, who are so focused on symantics in their day-to-day life, getting it wrong
   - note that it's usually unintentional, but hints at 
+  - probleatic in the same way as someone saying "a gay" or "a Black" or whatever (adjective as noun). Reduces a person down to one facet, and presumes that, because they have that attribute, they are representative of that group, or that that group is even representable in the way they're implying.
 - [ ] Gist-as-CMS - make one, focused on "doing"
 - [ ] Blog post: An explanation of Gist-as-CMS
 - [ ] Blog post: Wrapup on The Measure
