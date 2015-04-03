@@ -22,23 +22,26 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll Do This Week
 
 - [ ] Fill out tax paper forms.
-  - [ ] calculate total expenses for PB over year.
+  - [X] calculate total expenses for PB over year.
   - [ ] Sign form and get back to Joshua.
   - [ ] go through papers, see what's left
-  - [ ] Get W2 from PHP for S
+  - [X] Get W2 from PHP for S
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
 - [X] Post on blog about Make Breakfast?
 - [ ] Post on blog about friends with families picnic - April 12th
-- [ ] Email to 0. Currently ~~54~~ ~~16~~ ~~28~~ 16.
+- [ ] Email to 0. Currently ~~54~~ ~~16~~ ~~28~~ ~~16~~ 24.
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
 - [X] Got IFTTT socks request on list for AJ
-
+- [X] signed out of Twitter for much of the week and saw productivity soar!
+- [X] Braintree re-integration with PB
+- [X] wrote up docs for "if Charlie dies" for PB with some input
+- [X] got R access to Braintree for processing refunds
 
 ## Ongoing Projects
 
