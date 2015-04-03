@@ -33,6 +33,7 @@ Personal goals made open source for accessibility across computers I use, transp
 - [X] Post on blog about Make Breakfast?
 - [ ] Post on blog about friends with families picnic - April 12th
 - [ ] Email to 0. Currently ~~54~~ ~~16~~ ~~28~~ ~~16~~ 24.
+- [X] Talk proposal: CSS Dev Conf - http://2015.cssdevconf.com/speaking/ (April 5th due date)
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
@@ -52,7 +53,6 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
-- [ ] Talk proposal: CSS Dev Conf - http://2015.cssdevconf.com/speaking/ (April 5th due date)
 - [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
 - [ ] Help the girls make a zine. Kids jokes?
 - [ ] A11y audit of slack.com … blog post? just share with them?
