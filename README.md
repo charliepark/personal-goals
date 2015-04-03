@@ -78,8 +78,7 @@ Personal goals made open source for accessibility across computers I use, transp
       - penalty 2: employers looking at resumes have to parse the org and know what it is; many won't
       - penalty 3: because "girl" is a diminuitive, employers will consciously or unconsciously devalue it on the name alone
     - BUT! AND THIS IS IMPORTANT! Women are fully in their rights to name their organizations, meetups, programs, etc. things with "girl" in the title.
-    - a form of [signaling](http://en.wikipedia.org/wiki/Signalling_(economics))
-    - 
+    - http://en.wikipedia.org/wiki/Signalling_(economics)
 - [ ] Gist-as-CMS - make one, focused on "doing"
 - [ ] Blog post: An explanation of Gist-as-CMS
 - [ ] Blog post: Wrapup on The Measure
