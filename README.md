@@ -15,7 +15,7 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Have fun.
 
 
-# Week of March 30th
+# Week of April 6th
 
 #### This week's focus: finish taxes
 
@@ -31,7 +31,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
 - [ ] Post on blog about friends with families picnic - April 12th
-- [ ] Email to 0. Currently 12.
+- [ ] Email to 0. Currently ~~12~~ 6.
 
 
 
