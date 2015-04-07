@@ -30,19 +30,13 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
-- [X] Post on blog about Make Breakfast?
 - [ ] Post on blog about friends with families picnic - April 12th
-- [ ] Email to 0. Currently ~~54~~ ~~16~~ ~~28~~ ~~16~~ 24.
-- [X] Talk proposal: CSS Dev Conf - http://2015.cssdevconf.com/speaking/ (April 5th due date)
+- [ ] Email to 0. Currently 12.
+
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 
-- [X] Got IFTTT socks request on list for AJ
-- [X] signed out of Twitter for much of the week and saw productivity soar!
-- [X] Braintree re-integration with PB
-- [X] wrote up docs for "if Charlie dies" for PB with some input
-- [X] got R access to Braintree for processing refunds
 
 ## Ongoing Projects
 
