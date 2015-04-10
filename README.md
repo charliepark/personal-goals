@@ -21,22 +21,22 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do This Week
 
-- [ ] Fill out tax paper forms.
+- [X] Fill out tax paper forms.
   - [X] calculate total expenses for PB over year.
-  - [ ] Sign form and get back to Joshua.
-  - [ ] go through papers, see what's left
+  - [X] Sign form and get back to Joshua.
+  - [X] go through papers, see what's left
   - [X] Get W2 from PHP for S
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
 - [ ] ping Peter Cooper about Ignite talk - women/female talk
   - [ ] write draft, make flow chart
   - [ ] find tweet about aliens
 - [ ] Post on blog about friends with families picnic - April 12th
-- [ ] Email to 0. Currently ~~12~~ 6.
+- [X] Email to 0. Currently ~~12~~ ~~6~~ 4.
 
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
-
+- [X] Stayed off Twitter (!)
 
 ## Ongoing Projects
 
