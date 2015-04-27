@@ -15,28 +15,34 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Have fun.
 
 
-# Week of April 6th
+# Week of April 27th
 
-#### This week's focus: finish taxes
+#### This week's focus: Clarity around PearBudget next steps
 
 ## Things I'll Do This Week
 
-- [X] Fill out tax paper forms.
-  - [X] calculate total expenses for PB over year.
-  - [X] Sign form and get back to Joshua.
-  - [X] go through papers, see what's left
-  - [X] Get W2 from PHP for S
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-- [ ] ping Peter Cooper about Ignite talk - women/female talk
-  - [ ] write draft, make flow chart
-  - [ ] find tweet about aliens
 - [ ] Post on blog about friends with families picnic - April 12th
-- [X] Email to 0. Currently ~~12~~ ~~6~~ 4.
-
+- [ ] Email to 20. Currently 51.
+- [ ] Get R set up with billing/refund access and make sure it works.
+  - [ ] Refund customer with new setup, see how it works, send screenshots to R 
+- [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
+  - [ ] M
+  - [ ] T
+  - [ ] W
+  - [ ] T
+  - [ ] F
+- [ ] get clarity from Ds about XOXO childcare
+- [ ] commit on lodging at XOXO once clarity in place
+- [ ] talk to A about $ approach
+- [ ] buy Aveeno stuff
+- [ ] get feedback on jobs post
+- [ ] set up weekly working group for DI
+  - [X] send out note on Slack 
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
-- [X] Stayed off Twitter (!)
+
 
 ## Ongoing Projects
 
@@ -60,8 +66,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Friends With Families picnic … April 12th, Dolores Park?
 - [ ] Blog post: panda/dog/anteater picture, related to accessibility.
 - [ ] Blog post: Queueing off https://twitter.com/csswizardry/status/578870052516151296, there are (at least) two different type of projects CSS is written for — 1. content sites and 2. apps. And for a long time, the people writing the articles and books and talks about how to write CSS were the people who were writing the CSS for _content sites_. Therefore, a lot of the best practices were for that type of interface. Blogs have two things that make them stand out as distinct from apps: 1. They have a _really_ simple DOM; 2. Once it's written, the designer isn't actively changeing the CSS, and the content of the author generally isn't interested in adding classes to their code. So that approach made sense. But apps require a very different approach. (Also note how on simple sites — blipnote, for example — I still use content-site-like CSS.)
-- [ ] Blog post: "women" vs "females" (also "girls" and "ladies") "A Few Operating Instructions for Dudes"
-  - note irony of engineers, who are so focused on symantics in their day-to-day life, getting it wrong
+- [ ] Blog post: "women" vs "females" (also "girls" and "ladies")
+  - note irony of engineers, who are so focused on semantics in their day-to-day life, getting it wrong
   - note that it's usually unintentional, but hints at 
   - probleatic in the same way as someone saying "a gay" or "a Black" or whatever (adjective as noun). Reduces a person down to one facet, and presumes that, because they have that attribute, they are representative of that group, or that that group is even representable in the way they're implying.
   - Why "girl" in so many names of woman-oriented programs?
@@ -72,7 +78,6 @@ Personal goals made open source for accessibility across computers I use, transp
       - penalty 2: employers looking at resumes have to parse the org and know what it is; many won't
       - penalty 3: because "girl" is a diminuitive, employers will consciously or unconsciously devalue it on the name alone
     - BUT! AND THIS IS IMPORTANT! Women are fully in their rights to name their organizations, meetups, programs, etc. things with "girl" in the title.
-    - http://en.wikipedia.org/wiki/Signalling_(economics)
 - [ ] Gist-as-CMS - make one, focused on "doing"
 - [ ] Blog post: An explanation of Gist-as-CMS
 - [ ] Blog post: Wrapup on The Measure
