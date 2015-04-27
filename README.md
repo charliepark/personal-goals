@@ -23,7 +23,8 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
 - [ ] Post on blog about friends with families picnic - April 12th
-- [ ] Email to 20. Currently 51.
+- [X] Email to 20. Currently ~~51~~ 14.
+- [ ] NEW email goal: 7. Currently 14.
 - [ ] Get R set up with billing/refund access and make sure it works.
   - [ ] Refund customer with new setup, see how it works, send screenshots to R 
 - [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
