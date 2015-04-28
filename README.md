@@ -39,6 +39,8 @@ Personal goals made open source for accessibility across computers I use, transp
 - [X] get feedback on jobs post
 - [ ] set up weekly working group for DI
   - [X] send out note on Slack 
+- [ ] submit talk proposal to Velocity NYC 
+- [ ] submit talk proposal to Velocity Amsterdam
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
