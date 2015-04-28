@@ -22,22 +22,21 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll Do This Week
 
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
-- [ ] Post on blog about friends with families picnic - April 12th
 - [X] Email to 20. Currently ~~51~~ 14.
 - [ ] NEW email goal: 7. Currently 14.
 - [ ] Get R set up with billing/refund access and make sure it works.
   - [ ] Refund customer with new setup, see how it works, send screenshots to R 
 - [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
-  - [ ] M
+  - [X] M
   - [ ] T
   - [ ] W
   - [ ] T
   - [ ] F
-- [ ] get clarity from Ds about XOXO childcare
+- [X] get clarity from Ds about XOXO childcare
 - [ ] commit on lodging at XOXO once clarity in place
-- [ ] talk to A about $ approach
+- [X] talk to A about $ approach
 - [ ] buy Aveeno stuff
-- [ ] get feedback on jobs post
+- [X] get feedback on jobs post
 - [ ] set up weekly working group for DI
   - [X] send out note on Slack 
 
