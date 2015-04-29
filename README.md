@@ -23,28 +23,28 @@ Personal goals made open source for accessibility across computers I use, transp
 
 - [ ] Clarify next steps for PB. What to work on for current version? What to work on for PB04?
 - [X] Email to 20. Currently ~~51~~ 14.
-- [ ] NEW email goal: 7. Currently 14.
+- [ ] NEW email goal: 7. Currently ~~14~~ 26.
 - [ ] Get R set up with billing/refund access and make sure it works.
   - [ ] Refund customer with new setup, see how it works, send screenshots to R 
 - [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
   - [X] M
-  - [ ] T
+  - [X] T
   - [ ] W
   - [ ] T
   - [ ] F
 - [X] get clarity from Ds about XOXO childcare
 - [ ] commit on lodging at XOXO once clarity in place
 - [X] talk to A about $ approach
-- [ ] buy Aveeno stuff
+- [X] buy Aveeno stuff
 - [X] get feedback on jobs post
 - [ ] set up weekly working group for DI
   - [X] send out note on Slack 
-- [ ] submit talk proposal to Velocity NYC 
+- [X] submit talk proposal to Velocity NYC 
 - [ ] submit talk proposal to Velocity Amsterdam
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
-
+- [X] submit talk proposal to Velocity Ignite
 
 ## Ongoing Projects
 
