@@ -46,6 +46,9 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
 - [X] submit talk proposal to Velocity Ignite
 
+## For next week:
+- [ ] https://github.com/SassConf/2015-austin-speaker-cfp/
+
 ## Ongoing Projects
 
 - [ ] Make the apartment so purged / ordered / cleaned that Sarah has nothing to do
