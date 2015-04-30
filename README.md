@@ -29,11 +29,11 @@ Personal goals made open source for accessibility across computers I use, transp
 - [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
   - [X] M
   - [X] T
-  - [ ] W
+  - [X] W
   - [ ] T
   - [ ] F
 - [X] get clarity from Ds about XOXO childcare
-- [ ] commit on lodging at XOXO once clarity in place
+- [ ] commit on lodging at XOXO once clarity in place (_hold until tickets??_)
 - [X] talk to A about $ approach
 - [X] buy Aveeno stuff
 - [X] get feedback on jobs post
