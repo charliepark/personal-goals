@@ -54,6 +54,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll Do In The Future / Side Project Ideas
 
 - [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
+- [ ] Album of live TMG songs, first occasion JD played them, with banter intros. This would be so great.
 - [ ] Help the girls make a zine. Kids jokes?
 - [ ] A11y audit of slack.com … blog post? just share with them?
 - [ ] Black Box card game - http://www.makeplayingcards.com/design/custom-domino-sized-cards-deck.html or https://www.thegamecrafter.com/publish/product/DominoDeck
