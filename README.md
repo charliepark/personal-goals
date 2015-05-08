@@ -31,7 +31,7 @@ Personal goals made open source for accessibility across computers I use, transp
   - [X] M [_was a little tough, as How To Hold A Pencil episode came out (howtoholdapencil.com/episodes/charlie-park) so I posted a few times and being logged in was distracting; changed password back to random string and logged out again)
   - [X] T
   - [X] W
-  - [ ] T
+  - [X] T
   - [ ] F
 - [ ] commit on lodging at XOXO once we know what tax situation looks like
 - [ ] set up weekly working group for DI *carried over from last week*
