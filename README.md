@@ -22,19 +22,19 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll Do This Week
 
 - [ ] Finish PB wizard; make it *shippable*
-- [ ] Email to 5. Currently 21.
+- [ ] Email to 5. Currently ~~21~~ 7.
 - [ ] submit a talk: https://github.com/SassConf/2015-austin-speaker-cfp/ (due the 20th)
   - [ ] Talk idea: Optimizing Sass for Programmer Happiness
   - [ ] Talk idea: Using Sass to Make Flexbox Even Easier
 - [ ] Communicate to R: billing system is strange, new one isn't working for me to do refunds either
-- [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
+- [X] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
   - [X] M [_was a little tough, as How To Hold A Pencil episode came out (howtoholdapencil.com/episodes/charlie-park) so I posted a few times and being logged in was distracting; changed password back to random string and logged out again)
   - [X] T
   - [X] W
   - [X] T
-  - [ ] F
-- [ ] commit on lodging at XOXO once we know what tax situation looks like
-- [ ] set up weekly working group for DI *carried over from last week*
+  - [X] F
+- [ ] ~~commit on lodging at XOXO once we know what tax situation looks like~~ _move to later todos_
+- [X] set up weekly working group for DI *carried over from last week*
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
