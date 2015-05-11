@@ -15,31 +15,30 @@ Personal goals made open source for accessibility across computers I use, transp
 7. Have fun.
 
 
-# Week of May 4th
+# Week of May 11th
 
-#### This week's focus: Ship a ton at work; get wizard wrapped up in PB
+#### This week's focus: Finish PB wizard
 
 ## Things I'll Do This Week
 
 - [ ] Finish PB wizard; make it *shippable*
-- [X] Email to 5. Currently ~~21~~ ~~7~~ 5.
+- [ ] Write rough draft of Ignite talk.
+- [ ] give blood on Wednesday with Kevin and Simon
+- [ ] Email to 2. Currently 5.
 - [ ] submit a talk: https://github.com/SassConf/2015-austin-speaker-cfp/ (due the 20th)
   - [ ] Talk idea: Optimizing Sass for Programmer Happiness
   - [ ] Talk idea: Using Sass to Make Flexbox Even Easier
 - [ ] Communicate to R: billing system is strange, new one isn't working for me to do refunds either
-- [X] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
-  - [X] M [_was a little tough, as How To Hold A Pencil episode came out (howtoholdapencil.com/episodes/charlie-park) so I posted a few times and being logged in was distracting; changed password back to random string and logged out again)
-  - [X] T
-  - [X] W
-  - [X] T
-  - [X] F
-- [ ] ~~commit on lodging at XOXO once we know what tax situation looks like~~ _move to later todos_
-- [X] set up weekly working group for DI *carried over from last week*
+- [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
+  - [ ] M
+  - [ ] T
+  - [ ] W
+  - [ ] T
+  - [ ] F
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
-- [X] created spreadshet of the conference proposals I've made, to try to think about how to "do that" better
-- [X] created stub of Ignite talk in case I get a spot - https://gist.github.com/charliepark/7483bfcc595891b0aeae
+
 
 ## For next week:
 
