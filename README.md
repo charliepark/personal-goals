@@ -22,7 +22,7 @@ Personal goals made open source for accessibility across computers I use, transp
 ## Things I'll Do This Week
 
 - [ ] Finish PB wizard; make it *shippable*
-- [ ] Email to 5. Currently ~~21~~ 7.
+- [X] Email to 5. Currently ~~21~~ ~~7~~ 5.
 - [ ] submit a talk: https://github.com/SassConf/2015-austin-speaker-cfp/ (due the 20th)
   - [ ] Talk idea: Optimizing Sass for Programmer Happiness
   - [ ] Talk idea: Using Sass to Make Flexbox Even Easier
@@ -53,6 +53,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] budget for and commit to hotel/etc. for XOXO
 - [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
 - [ ] Album of live TMG songs, first occasion JD played them, with banter intros. This would be so great.
 - [ ] Help the girls make a zine. Kids jokes?
