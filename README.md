@@ -21,20 +21,20 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do This Week
 
-- [ ] Finish PB wizard; make it *shippable*
+- [X] Finish PB wizard; make it *shippable*
 - [ ] Write rough draft of Ignite talk.
-- [ ] give blood on Wednesday with Kevin and Simon
+- [ ] ~~give blood on Wednesday with Kevin and Simon~~ Went; no room at the inn :(
 - [ ] Email to 2. Currently 5.
 - [ ] submit a talk: https://github.com/SassConf/2015-austin-speaker-cfp/ (due the 20th)
   - [ ] Talk idea: Optimizing Sass for Programmer Happiness
   - [ ] Talk idea: Using Sass to Make Flexbox Even Easier
 - [ ] Communicate to R: billing system is strange, new one isn't working for me to do refunds either
-- [ ] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
-  - [ ] M
-  - [ ] T
-  - [ ] W
-  - [ ] T
-  - [ ] F
+- [X] Continue to stay off Twitter (definition: logged out except when necessary; no tweets, no faves; DMs okay)
+  - [X] M
+  - [X] T
+  - [X] W
+  - [X] T
+  - [X] F
 
 
 ## Things I Did This Week That Weren't On My "Do This Week" List :(
