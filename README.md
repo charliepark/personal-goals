@@ -52,6 +52,7 @@ Personal goals made open source for accessibility across computers I use, transp
 
 ## Things I'll Do In The Future / Side Project Ideas
 
+- [ ] First Plane to Jakarta - (don't call it that) - edit/produce collection of earliest live playings of different TMG songs
 - [ ] budget for and commit to hotel/etc. for XOXO
 - [ ] Talk proposal: SassConf - https://github.com/SassConf/2015-austin-speaker-cfp http://sassconf.com/blog/posts/cfp-mentor-team (May 20th due date)
 - [ ] Album of live TMG songs, first occasion JD played them, with banter intros. This would be so great.
